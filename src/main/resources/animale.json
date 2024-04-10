@@ -1,0 +1,43 @@
+[
+  [
+    "org.example.Animale.Pisica",
+    {
+      "nume": "dsdsd",
+      "inaltime": 23,
+      "dataNasterii": "2004-03-05",
+      "talie": "MEDIE",
+      "greutate": 23,
+      "rasa": "dsdsd"
+    }
+  ],
+  [
+    "org.example.Animale.Pisica",
+    {
+      "nume": "dsdssd",
+      "inaltime": 45,
+      "dataNasterii": "2006-03-07",
+      "talie": "MICA",
+      "greutate": 23,
+      "rasa": "dsdsd"
+    }
+  ],
+  [
+    "org.example.Animale.Animal",
+    {
+      "nume": "Iepurila",
+      "inaltime": 12,
+      "dataNasterii": "2020-06-12",
+      "talie": "MICA"
+    }
+  ],
+  [
+    "org.example.Animale.Caine",
+    {
+      "nume": "Cutu",
+      "inaltime": 45,
+      "dataNasterii": "2023-04-20",
+      "talie": "MARE",
+      "esteAdoptat": true
+    }
+  ]
+]
