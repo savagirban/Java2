@@ -1,0 +1,41 @@
+[
+  {
+    "nume": "Marcu",
+    "tipOpera": "BELETRISTICA",
+    "dataNasterii": "2004-03-05",
+    "carti": [
+      {
+        "titlu": "Ana",
+        "numarPagini": 24,
+        "esteAudiobook": false
+      },
+      {
+        "titlu": "In valurile marii",
+        "numarPagini": 278,
+        "esteAudiobook": false
+      },
+      {
+        "titlu": "Furtuna",
+        "numarPagini": 186,
+        "esteAudiobook": false
+      }
+    ]
+  },
+  {
+    "nume": "Matei",
+    "tipOpera": "COMEDIE",
+    "dataNasterii": "2021-03-04",
+    "carti": [
+      {
+        "titlu": "Mai3",
+        "numarPagini": 531,
+        "esteAudiobook": false
+      },
+      {
+        "titlu": "Yxnnx",
+        "numarPagini": 23,
+        "esteAudiobook": true
+      }
+    ]
+  }
+]
